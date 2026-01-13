@@ -1,6 +1,0 @@
-eu estou tentando fazer um sistema de theme para meu plugin no roblox studio, mas, eu acabei me ferrando por que eu tenho que trocar TUDO para funcionar direito, eu fiz, mas, não está mais do jeito que estava, que era assim:
-https://raw.githubusercontent.com/Dogaumm/a/refs/heads/main/1xml.xml
-
-o xml de cima era perfeito na questão de UI, só era burro na questão de fazer upgrade, no xml que irei enviar, ele sabe trocar de cor, usando Classes, mas, eu estraguei o design que era anteriormente, faltando muitas propriedades que antes tinham e agr n tem, a única forma é modificar esses classes no UIFramework, fazendo vários nomes diferentes, que correspondam como antigamente, tipo, tinha 20 botões com 5 propriedades idênticas, ent vai ter 1 class para esses 20, com as 5 propriedades
-agora, está totalmente ruim, está assim:
-https://raw.githubusercontent.com/Dogaumm/a/refs/heads/main/2xml.xml
